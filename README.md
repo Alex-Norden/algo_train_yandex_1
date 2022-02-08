@@ -13,4 +13,4 @@
 
 
 
-Заметили ошибку? Пожалуйста, сообщите мне [@alx_nord](https://t.me/alx_nord)
+Заметили ошибку? Пожалуйста, оформите issue или напишите мне [Alex-Norden@yandex.ru](mailto:Alex-Norden@yandex.ru)
